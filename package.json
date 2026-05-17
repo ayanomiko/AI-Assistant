@@ -22,7 +22,16 @@
     "android": "npm run build && npx cap sync && npx cap open android"
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version"]
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version"
+    ]
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.3.4"
   }
 }
