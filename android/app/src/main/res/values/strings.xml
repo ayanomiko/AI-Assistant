@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Mei AI</string>
-    <string name="widget_description">Mei luôn ở bên anh ♡</string>
+    <string name="app_name">Aria AI</string>
+    <string name="title_activity_main">Aria AI</string>
+    <string name="package_name">com.aria.assistant</string>
+    <string name="custom_url_scheme">com.aria.assistant</string>
 </resources>
