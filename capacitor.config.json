@@ -1,0 +1,23 @@
+{
+  "appId": "com.aria.assistant",
+  "appName": "Aria AI",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0f0f1e"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#818cf8",
+      "sound": "beep.wav"
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0f0f1e"
+    }
+  }
+}
